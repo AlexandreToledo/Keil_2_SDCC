@@ -1,7 +1,7 @@
 /*C**************************************************************************
 * $RCSfile: at89c51cc03.h,v $ - Original file from Keil placed here at 2024-09-30
 *----------------------------------------------------------------------------
-* Copyright (c) 2003 Atmel.
+* Copyright (c) 2003 Atmel. - By Alexandre Toledo
 *----------------------------------------------------------------------------
 * PURPOSE: 
 * Sfr file description for AT89C51CC03 product
